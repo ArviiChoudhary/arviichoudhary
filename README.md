@@ -1,4 +1,4 @@
-[![MasterHead](https://careers.webdew.com/hubfs/we%20are%20hiring%20.gif)]
+![MasterHead](https://careers.webdew.com/hubfs/we%20are%20hiring%20.gif)
 
 <h1 align="center">Hi 👋, I'm Arvind Kumar</h1>
 <h3 align="center">A passionate tech recruiter based in Europe</h3>
