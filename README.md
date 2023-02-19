@@ -1,4 +1,4 @@
-[![MasterHead](https://1951043.fs1.hubspotusercontent-na1.net/hub/1951043/hubfs/Recruitment_Marketer.gif?width=760&name=Recruitment_Marketer.gif)]
+[![MasterHead](https://careers.webdew.com/hubfs/we%20are%20hiring%20.gif)]
 
 <h1 align="center">Hi 👋, I'm Arvind Kumar</h1>
 <h3 align="center">A passionate tech recruiter based in Europe</h3>
